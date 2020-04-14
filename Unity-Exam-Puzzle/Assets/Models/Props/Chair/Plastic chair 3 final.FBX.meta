@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: ba40ca2aaa9e78d47bad2584b40e14b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box041
+    100002: Chair foot003
+    100004: Chair foot004
+    100006: Chair foot005
+    100008: Chair foot01
+    100010: Chair foot02
+    100012: Chair leg
+    100014: Chair seat
+    100016: char lever
+    100018: //RootNode
+    100020: Sphere001
+    100022: Sphere002
+    100024: Sphere003
+    100026: Sphere004
+    100028: Sphere005
+    400000: Box041
+    400002: Chair foot003
+    400004: Chair foot004
+    400006: Chair foot005
+    400008: Chair foot01
+    400010: Chair foot02
+    400012: Chair leg
+    400014: Chair seat
+    400016: char lever
+    400018: //RootNode
+    400020: Sphere001
+    400022: Sphere002
+    400024: Sphere003
+    400026: Sphere004
+    400028: Sphere005
+    2100000: No Name
+    2300000: Box041
+    2300002: Chair foot003
+    2300004: Chair foot004
+    2300006: Chair foot005
+    2300008: Chair foot01
+    2300010: Chair foot02
+    2300012: Chair leg
+    2300014: char lever
+    2300016: Sphere001
+    2300018: Sphere002
+    2300020: Sphere003
+    2300022: Sphere004
+    2300024: Sphere005
+    3300000: Box041
+    3300002: Chair foot003
+    3300004: Chair foot004
+    3300006: Chair foot005
+    3300008: Chair foot01
+    3300010: Chair foot02
+    3300012: Chair leg
+    3300014: char lever
+    3300016: Sphere001
+    3300018: Sphere002
+    3300020: Sphere003
+    3300022: Sphere004
+    3300024: Sphere005
+    4300000: Chair foot01
+    4300002: Chair foot02
+    4300004: Chair foot003
+    4300006: Chair foot005
+    4300008: Chair leg
+    4300010: char lever
+    4300012: Sphere001
+    4300014: Sphere002
+    4300016: Sphere003
+    4300018: Sphere004
+    4300020: Sphere005
+    4300022: Chair foot004
+    4300024: Box041
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

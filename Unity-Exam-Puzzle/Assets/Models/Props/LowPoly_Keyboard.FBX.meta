@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 16239cf78d884954ca135c28cf1699fe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '*'
+    100002: '*  PAD'
+    100004: +
+    100006: + PAD
+    100008: ','
+    100010: ', PAD'
+    100012: '-'
+    100014: '-  PAD'
+    100016: .
+    100018: /  PAD
+    100020: 0
+    100022: 0 PAD
+    100024: 1
+    100026: 1 PAD
+    100028: 2
+    100030: 2 PAD
+    100032: 3
+    100034: 3 PAD
+    100036: 4
+    100038: 4 PAD
+    100040: 5
+    100042: 5 PAD
+    100044: 6
+    100046: 6 PAD
+    100048: 7
+    100050: 7 PAD
+    100052: 8
+    100054: 8 PAD
+    100056: 9
+    100058: 9 PAD
+    100060: <
+    100062: \
+    100064: ^
+    100066: A
+    100068: ALT GR
+    100070: B
+    100072: BACKSPACE
+    100074: C
+    100076: Cable
+    100078: CAPS LOCK
+    100080: D
+    100082: DELETE
+    100084: DOWN ARROW
+    100086: E
+    100088: END
+    100090: ENTER
+    100092: ENTER PAD
+    100094: esc
+    100096: F
+    100098: F1
+    100100: F10
+    100102: F11
+    100104: F12
+    100106: F2
+    100108: F3
+    100110: F4
+    100112: F5
+    100114: F6
+    100116: F7
+    100118: F8
+    100120: F9
+    100122: FN
+    100124: G
+    100126: H
+    100128: HOME
+    100130: I
+    100132: INSERT
+    100134: J
+    100136: K
+    100138: L
+    100140: LEFT ALT
+    100142: LEFT ARROW
+    100144: //RootNode
+    100146: M
+    100148: N
+    100150: NUM LOCK
+    100152: O
+    100154: P
+    100156: PAGE DOWN
+    100158: PAGE UP
+    100160: PAUSE/BREAK
+    100162: PRINT SCREEN
+    100164: Q
+    100166: R
+    100168: RIGHT ARROW
+    100170: RIGHT CTRL
+    100172: S
+    100174: SCROLL LOCK
+    100176: SHIFT LEFT
+    100178: SHIFT LEFT001
+    100180: SHIFT RIGHT
+    100182: SPACE
+    100184: T
+    100186: Tab
+    100188: U
+    100190: UP ARROW
+    100192: V
+    100194: W
+    100196: WINDOWS
+    100198: X
+    100200: Y
+    100202: Z
+    100204: "\xA7"
+    100206: "\xC5"
+    100208: "\xC6"
+    100210: "\xD8"
+    400000: '*'
+    400002: '*  PAD'
+    400004: +
+    400006: + PAD
+    400008: ','
+    400010: ', PAD'
+    400012: '-'
+    400014: '-  PAD'
+    400016: .
+    400018: /  PAD
+    400020: 0
+    400022: 0 PAD
+    400024: 1
+    400026: 1 PAD
+    400028: 2
+    400030: 2 PAD
+    400032: 3
+    400034: 3 PAD
+    400036: 4
+    400038: 4 PAD
+    400040: 5
+    400042: 5 PAD
+    400044: 6
+    400046: 6 PAD
+    400048: 7
+    400050: 7 PAD
+    400052: 8
+    400054: 8 PAD
+    400056: 9
+    400058: 9 PAD
+    400060: <
+    400062: \
+    400064: ^
+    400066: A
+    400068: ALT GR
+    400070: B
+    400072: BACKSPACE
+    400074: C
+    400076: Cable
+    400078: CAPS LOCK
+    400080: D
+    400082: DELETE
+    400084: DOWN ARROW
+    400086: E
+    400088: END
+    400090: ENTER
+    400092: ENTER PAD
+    400094: esc
+    400096: F
+    400098: F1
+    400100: F10
+    400102: F11
+    400104: F12
+    400106: F2
+    400108: F3
+    400110: F4
+    400112: F5
+    400114: F6
+    400116: F7
+    400118: F8
+    400120: F9
+    400122: FN
+    400124: G
+    400126: H
+    400128: HOME
+    400130: I
+    400132: INSERT
+    400134: J
+    400136: K
+    400138: L
+    400140: LEFT ALT
+    400142: LEFT ARROW
+    400144: //RootNode
+    400146: M
+    400148: N
+    400150: NUM LOCK
+    400152: O
+    400154: P
+    400156: PAGE DOWN
+    400158: PAGE UP
+    400160: PAUSE/BREAK
+    400162: PRINT SCREEN
+    400164: Q
+    400166: R
+    400168: RIGHT ARROW
+    400170: RIGHT CTRL
+    400172: S
+    400174: SCROLL LOCK
+    400176: SHIFT LEFT
+    400178: SHIFT LEFT001
+    400180: SHIFT RIGHT
+    400182: SPACE
+    400184: T
+    400186: Tab
+    400188: U
+    400190: UP ARROW
+    400192: V
+    400194: W
+    400196: WINDOWS
+    400198: X
+    400200: Y
+    400202: Z
+    400204: "\xA7"
+    400206: "\xC5"
+    400208: "\xC6"
+    400210: "\xD8"
+    2100000: 01 - Default
+    2100002: No Name
+    2300000: '*'
+    2300002: '*  PAD'
+    2300004: +
+    2300006: + PAD
+    2300008: ','
+    2300010: ', PAD'
+    2300012: '-'
+    2300014: '-  PAD'
+    2300016: .
+    2300018: /  PAD
+    2300020: 0
+    2300022: 0 PAD
+    2300024: 1
+    2300026: 1 PAD
+    2300028: 2
+    2300030: 2 PAD
+    2300032: 3
+    2300034: 3 PAD
+    2300036: 4
+    2300038: 4 PAD
+    2300040: 5
+    2300042: 5 PAD
+    2300044: 6
+    2300046: 6 PAD
+    2300048: 7
+    2300050: 7 PAD
+    2300052: 8
+    2300054: 8 PAD
+    2300056: 9
+    2300058: 9 PAD
+    2300060: <
+    2300062: \
+    2300064: ^
+    2300066: A
+    2300068: ALT GR
+    2300070: B
+    2300072: BACKSPACE
+    2300074: C
+    2300076: Cable
+    2300078: CAPS LOCK
+    2300080: D
+    2300082: DELETE
+    2300084: DOWN ARROW
+    2300086: E
+    2300088: END
+    2300090: ENTER
+    2300092: ENTER PAD
+    2300094: esc
+    2300096: F
+    2300098: F1
+    2300100: F10
+    2300102: F11
+    2300104: F12
+    2300106: F2
+    2300108: F3
+    2300110: F4
+    2300112: F5
+    2300114: F6
+    2300116: F7
+    2300118: F8
+    2300120: F9
+    2300122: FN
+    2300124: G
+    2300126: H
+    2300128: HOME
+    2300130: I
+    2300132: INSERT
+    2300134: J
+    2300136: K
+    2300138: L
+    2300140: LEFT ALT
+    2300142: LEFT ARROW
+    2300144: //RootNode
+    2300146: M
+    2300148: N
+    2300150: NUM LOCK
+    2300152: O
+    2300154: P
+    2300156: PAGE DOWN
+    2300158: PAGE UP
+    2300160: PAUSE/BREAK
+    2300162: PRINT SCREEN
+    2300164: Q
+    2300166: R
+    2300168: RIGHT ARROW
+    2300170: RIGHT CTRL
+    2300172: S
+    2300174: SCROLL LOCK
+    2300176: SHIFT LEFT
+    2300178: SHIFT LEFT001
+    2300180: SHIFT RIGHT
+    2300182: SPACE
+    2300184: T
+    2300186: Tab
+    2300188: U
+    2300190: UP ARROW
+    2300192: V
+    2300194: W
+    2300196: WINDOWS
+    2300198: X
+    2300200: Y
+    2300202: Z
+    2300204: "\xA7"
+    2300206: "\xC5"
+    2300208: "\xC6"
+    2300210: "\xD8"
+    3300000: '*'
+    3300002: '*  PAD'
+    3300004: +
+    3300006: + PAD
+    3300008: ','
+    3300010: ', PAD'
+    3300012: '-'
+    3300014: '-  PAD'
+    3300016: .
+    3300018: /  PAD
+    3300020: 0
+    3300022: 0 PAD
+    3300024: 1
+    3300026: 1 PAD
+    3300028: 2
+    3300030: 2 PAD
+    3300032: 3
+    3300034: 3 PAD
+    3300036: 4
+    3300038: 4 PAD
+    3300040: 5
+    3300042: 5 PAD
+    3300044: 6
+    3300046: 6 PAD
+    3300048: 7
+    3300050: 7 PAD
+    3300052: 8
+    3300054: 8 PAD
+    3300056: 9
+    3300058: 9 PAD
+    3300060: <
+    3300062: \
+    3300064: ^
+    3300066: A
+    3300068: ALT GR
+    3300070: B
+    3300072: BACKSPACE
+    3300074: C
+    3300076: Cable
+    3300078: CAPS LOCK
+    3300080: D
+    3300082: DELETE
+    3300084: DOWN ARROW
+    3300086: E
+    3300088: END
+    3300090: ENTER
+    3300092: ENTER PAD
+    3300094: esc
+    3300096: F
+    3300098: F1
+    3300100: F10
+    3300102: F11
+    3300104: F12
+    3300106: F2
+    3300108: F3
+    3300110: F4
+    3300112: F5
+    3300114: F6
+    3300116: F7
+    3300118: F8
+    3300120: F9
+    3300122: FN
+    3300124: G
+    3300126: H
+    3300128: HOME
+    3300130: I
+    3300132: INSERT
+    3300134: J
+    3300136: K
+    3300138: L
+    3300140: LEFT ALT
+    3300142: LEFT ARROW
+    3300144: //RootNode
+    3300146: M
+    3300148: N
+    3300150: NUM LOCK
+    3300152: O
+    3300154: P
+    3300156: PAGE DOWN
+    3300158: PAGE UP
+    3300160: PAUSE/BREAK
+    3300162: PRINT SCREEN
+    3300164: Q
+    3300166: R
+    3300168: RIGHT ARROW
+    3300170: RIGHT CTRL
+    3300172: S
+    3300174: SCROLL LOCK
+    3300176: SHIFT LEFT
+    3300178: SHIFT LEFT001
+    3300180: SHIFT RIGHT
+    3300182: SPACE
+    3300184: T
+    3300186: Tab
+    3300188: U
+    3300190: UP ARROW
+    3300192: V
+    3300194: W
+    3300196: WINDOWS
+    3300198: X
+    3300200: Y
+    3300202: Z
+    3300204: "\xA7"
+    3300206: "\xC5"
+    3300208: "\xC6"
+    3300210: "\xD8"
+    4300000: Keyboard
+    4300002: "\xA7"
+    4300004: 1
+    4300006: 2
+    4300008: 3
+    4300010: 4
+    4300012: 5
+    4300014: 6
+    4300016: 7
+    4300018: 8
+    4300020: 9
+    4300022: 0
+    4300024: +
+    4300026: \
+    4300028: BACKSPACE
+    4300030: INSERT
+    4300032: HOME
+    4300034: PAGE UP
+    4300036: NUM LOCK
+    4300038: /  PAD
+    4300040: '*  PAD'
+    4300042: '-  PAD'
+    4300044: esc
+    4300046: F1
+    4300048: F2
+    4300050: F3
+    4300052: F4
+    4300054: F5
+    4300056: F6
+    4300058: F7
+    4300060: F8
+    4300062: F9
+    4300064: F10
+    4300066: F11
+    4300068: F12
+    4300070: PRINT SCREEN
+    4300072: SCROLL LOCK
+    4300074: PAUSE/BREAK
+    4300076: Tab
+    4300078: Q
+    4300080: W
+    4300082: E
+    4300084: R
+    4300086: T
+    4300088: Y
+    4300090: U
+    4300092: I
+    4300094: O
+    4300096: P
+    4300098: "\xC5"
+    4300100: ^
+    4300102: ENTER
+    4300104: DELETE
+    4300106: END
+    4300108: PAGE DOWN
+    4300110: 7 PAD
+    4300112: 8 PAD
+    4300114: 9 PAD
+    4300116: + PAD
+    4300118: CAPS LOCK
+    4300120: A
+    4300122: S
+    4300124: D
+    4300126: F
+    4300128: G
+    4300130: H
+    4300132: J
+    4300134: K
+    4300136: L
+    4300138: "\xD8"
+    4300140: "\xC6"
+    4300142: '*'
+    4300144: 4 PAD
+    4300146: 5 PAD
+    4300148: 6 PAD
+    4300150: SHIFT LEFT
+    4300152: <
+    4300154: Z
+    4300156: X
+    4300158: C
+    4300160: V
+    4300162: B
+    4300164: N
+    4300166: M
+    4300168: ','
+    4300170: .
+    4300172: '-'
+    4300174: SHIFT RIGHT
+    4300176: 1 PAD
+    4300178: 2 PAD
+    4300180: 3 PAD
+    4300182: UP ARROW
+    4300184: ENTER PAD
+    4300186: SHIFT LEFT001
+    4300188: WINDOWS
+    4300190: LEFT ALT
+    4300192: SPACE
+    4300194: ALT GR
+    4300196: FN
+    4300198: RIGHT CTRL
+    4300200: 0 PAD
+    4300202: ', PAD'
+    4300204: LEFT ARROW
+    4300206: DOWN ARROW
+    4300208: RIGHT ARROW
+    4300210: Cable
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
