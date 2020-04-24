@@ -2263,11 +2263,79 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 145163179}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &145183922
+=======
+<<<<<<< HEAD
+--- !u!1001 &145416947
+=======
+--- !u!1001 &145183922
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 2133139129}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_Name
+      value: Wall130_Vers5 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.020004272
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7039145
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7102847
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.484
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+<<<<<<< HEAD
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 84c431b4bc2fe6242acd13a00d32e8f4, type: 3}
+=======
     m_TransformParent: {fileID: 2133139129}
     m_Modifications:
     - target: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50, type: 3}
@@ -2319,6 +2387,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_SourcePrefab: {fileID: 100100000, guid: b27216413fc371949b9c11c26384ea50, type: 3}
 --- !u!4 &145183923 stripped
 Transform:
@@ -2345,6 +2414,10 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.1, y: 5, z: 1.3}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &147157019
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5516,11 +5589,95 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83850ae4e4a62b1448dcbd6065f3cb72, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &341491340
+=======
+--- !u!1001 &343234537
+=======
+--- !u!1001 &341491340
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 1966229908}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 601312284}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 3105220269565858089, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ff99ee2dbaf908d48a18114ae28f647e, type: 2}
+    - target: {fileID: 3105220269568053225, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_Name
+      value: Chair whole model (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.49509504
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5048575
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4909002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.50893706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -91.591995
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.475
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+<<<<<<< HEAD
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: ba40ca2aaa9e78d47bad2584b40e14b9, type: 3}
+=======
     m_TransformParent: {fileID: 1966229908}
     m_Modifications:
     - target: {fileID: 3105220269565858089, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
@@ -5589,6 +5746,7 @@ PrefabInstance:
       value: -180.475
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_SourcePrefab: {fileID: 100100000, guid: a6c5405bde22a5143b06d1fe8bbb5fa9, type: 3}
 --- !u!4 &341491341 stripped
 Transform:
@@ -5603,6 +5761,7 @@ GameObject:
   m_PrefabInstance: {fileID: 341491340}
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &341491343
+<<<<<<< HEAD
 =======
 --- !u!1 &343782320 stripped
 GameObject:
@@ -5628,11 +5787,14 @@ MonoBehaviour:
   Door3: {fileID: 1065327883}
   Door4: {fileID: 136230471}
 --- !u!65 &343782323
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 343782320}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -5652,10 +5814,14 @@ BoxCollider:
 =======
   m_GameObject: {fileID: 343782320}
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+  m_GameObject: {fileID: 341491342}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Size: {x: 0.46439627, y: 0.43229616, z: 0.062260214}
   m_Center: {x: -0.0000075965986, y: 0.0062115705, z: 0.020899674}
@@ -5663,6 +5829,11 @@ BoxCollider:
   m_Size: {x: 0.5, y: 3, z: 1}
   m_Center: {x: 0, y: 1, z: 0}
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+  m_Size: {x: 0.46439627, y: 0.43229616, z: 0.062260214}
+  m_Center: {x: -0.0000075965986, y: 0.0062115705, z: 0.020899674}
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &344030723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8140,6 +8311,9 @@ Transform:
   m_PrefabInstance: {fileID: 445947508}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &447388991
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8223,6 +8397,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &447388994
 BoxCollider:
+<<<<<<< HEAD
 =======
 --- !u!1 &448948690
 GameObject:
@@ -8244,10 +8419,13 @@ GameObject:
   m_IsActive: 1
 --- !u!224 &448948691
 RectTransform:
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 448948690}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -8269,6 +8447,8 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_GameObject: {fileID: 447388993}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -8276,6 +8456,7 @@ MonoBehaviour:
   serializedVersion: 2
   m_Size: {x: 0.76000017, y: 1.7500005, z: 0.015000001}
   m_Center: {x: 0.0000038146973, y: 0.0000038146973, z: 0.0075000003}
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 448948690}
   m_Enabled: 1
@@ -8312,6 +8493,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 448948690}
   m_CullTransparentMesh: 0
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &449055961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11017,7 +11200,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400004, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
       propertyPath: mouseLook.lockCursor
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11400004, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
       propertyPath: mouseLook.smoothTime
@@ -11243,6 +11426,135 @@ Transform:
   m_PrefabInstance: {fileID: 1480734943}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &570585179
+<<<<<<< HEAD
+=======
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1019425799}
+    m_Modifications:
+    - target: {fileID: 100004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_Name
+      value: Speaker (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 24.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7069896
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7072241
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -270.01898
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6, type: 3}
+--- !u!4 &570585180 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400004, guid: 12fde7d8d01b4a44d87f7610d2ca4fe6,
+    type: 3}
+  m_PrefabInstance: {fileID: 570585179}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &571000204
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1439467048}
+    m_Modifications:
+    - target: {fileID: 1655139468933116, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_Name
+      value: iskaffe (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.090004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.223
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.6610003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5, type: 3}
+--- !u!4 &571000205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4674355760925726, guid: 24f80e5b6f8df2048a08fe3f5af7a8f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 571000204}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &578591429
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -11906,11 +12218,103 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &602231204
+=======
+<<<<<<< HEAD
+--- !u!1001 &601312283
+=======
+--- !u!1001 &602231204
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 433157180}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 458030476}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 3393872814195345416, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_Name
+      value: Table_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.444
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.566
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4f90ffc2424dceb409d5874f3fe789df, type: 3}
+--- !u!4 &602231205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+    type: 3}
+  m_PrefabInstance: {fileID: 602231204}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &602231206 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3393872814195345416, guid: 4f90ffc2424dceb409d5874f3fe789df,
+    type: 3}
+  m_PrefabInstance: {fileID: 602231204}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+=======
     m_TransformParent: {fileID: 433157180}
     m_Modifications:
     - target: {fileID: 3393872814195345416, guid: 4f90ffc2424dceb409d5874f3fe789df,
@@ -11987,6 +12391,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 602231204}
   m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!65 &602231207
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12000,6 +12405,10 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.76000017, y: 1.7500005, z: 0.015000001}
   m_Center: {x: 0.0000038146973, y: 0.0000038146973, z: 0.0075000003}
+<<<<<<< HEAD
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!4 &603382638 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50,
@@ -13000,6 +13409,125 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95e1039610e7adf4f8ec89dff44f21b5, type: 3}
 --- !u!1001 &656427365
+<<<<<<< HEAD
+=======
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2133139129}
+    m_Modifications:
+    - target: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_Name
+      value: Wall130_Vers5 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.020004272
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7039145
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7102847
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.484
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+--- !u!4 &656427366 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50,
+    type: 3}
+  m_PrefabInstance: {fileID: 656427365}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &658677823
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 658677824}
+  m_Layer: 0
+  m_Name: Waiting Lounge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &658677824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658677823}
+  m_LocalRotation: {x: -0.49999994, y: -0.50000006, z: -0.50000006, w: 0.49999994}
+  m_LocalPosition: {x: 8.853002, y: 0.22, z: 7.111002}
+  m_LocalScale: {x: 2.5400002, y: 20.329433, z: 2.5400007}
+  m_Children:
+  - {fileID: 513372155}
+  - {fileID: 1021208761}
+  - {fileID: 1644556304}
+  - {fileID: 864158647}
+  m_Father: {fileID: 1199418643}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &664277727 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50,
+    type: 3}
+  m_PrefabInstance: {fileID: 535411026}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &664277728
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664277727}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 5, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &674092696
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -16335,6 +16863,154 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 864158646}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+  m_GameObject: {fileID: 861350830}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 5, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &863762471
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 433157180}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_Name
+      value: MouseV2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.192003
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.604
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.892006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.62572664
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.003007229
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7737287
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0989999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 6.8480005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -192.61899
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -189.096
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
+--- !u!4 &863762472 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: 1ec527844b427cc4c90b949647e7c619,
+    type: 3}
+  m_PrefabInstance: {fileID: 863762471}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &864158646
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658677824}
+    m_Modifications:
+    - target: {fileID: 100000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_Name
+      value: Snus
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.502
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0261
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000119209275
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.3937008
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.049189787
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.39370084
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e44bbe0eb4812d9469eb7d7649ecc645, type: 3}
+--- !u!4 &864158647 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: e44bbe0eb4812d9469eb7d7649ecc645,
+    type: 3}
+  m_PrefabInstance: {fileID: 864158646}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1 &864864165
 GameObject:
   m_ObjectHideFlags: 0
@@ -16803,6 +17479,9 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ec527844b427cc4c90b949647e7c619, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &888979560
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16874,6 +17553,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &888979563
 BoxCollider:
+<<<<<<< HEAD
 =======
 --- !u!1 &891539233
 GameObject:
@@ -16896,10 +17576,13 @@ GameObject:
   m_IsActive: 1
 --- !u!224 &891539234
 RectTransform:
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 891539233}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -16922,6 +17605,8 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_GameObject: {fileID: 888979562}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -16992,6 +17677,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 889454555}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 891539233}
   m_Enabled: 1
@@ -17074,6 +17760,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 891539233}
   m_CullTransparentMesh: 0
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &894111040
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18245,7 +18933,15 @@ Transform:
   - {fileID: 1610132953}
   - {fileID: 533311352}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 7
+=======
+<<<<<<< HEAD
+  m_RootOrder: 19
+=======
+  m_RootOrder: 7
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &969498522
 PrefabInstance:
@@ -18757,11 +19453,78 @@ BoxCollider:
   m_Size: {x: 1, y: 5, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &993269851
+=======
+--- !u!1001 &995633397
+=======
+--- !u!1001 &993269851
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 433157180}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 601312284}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 1746530463593418, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_Name
+      value: Screen_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5930655
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.937002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.3192873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.94765806
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 52.760002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847378984471096, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+<<<<<<< HEAD
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: ba40ca2aaa9e78d47bad2584b40e14b9, type: 3}
+=======
     m_TransformParent: {fileID: 433157180}
     m_Modifications:
     - target: {fileID: 1746530463593418, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
@@ -18813,6 +19576,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_SourcePrefab: {fileID: 100100000, guid: f6feb1fe29bd58048a1fd3d40ef5bcbe, type: 3}
 --- !u!4 &993269852 stripped
 Transform:
@@ -18820,6 +19584,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 993269851}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 --- !u!1 &991839175
 GameObject:
@@ -18947,6 +19712,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 991839175}
   m_CullTransparentMesh: 0
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!4 &998979058 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50,
@@ -19774,7 +20542,15 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 6
+=======
+<<<<<<< HEAD
+  m_RootOrder: 18
+=======
+  m_RootOrder: 6
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1054523066
 GameObject:
@@ -23071,6 +23847,12 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 5, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+--- !u!1001 &1272316342
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1 &1266284268
 GameObject:
   m_ObjectHideFlags: 0
@@ -23149,10 +23931,74 @@ CanvasRenderer:
   m_GameObject: {fileID: 1266284268}
   m_CullTransparentMesh: 0
 --- !u!1001 &1270606095
+<<<<<<< HEAD
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 2133139129}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_Name
+      value: Wall130_Vers5 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.382
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.020004272
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.732
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7039145
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7102847
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.484
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+<<<<<<< HEAD
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: e63d26816261fbb43b74fc0fa2b72c87, type: 3}
+=======
     m_TransformParent: {fileID: 2133139129}
     m_Modifications:
     - target: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50, type: 3}
@@ -23204,6 +24050,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_SourcePrefab: {fileID: 100100000, guid: b27216413fc371949b9c11c26384ea50, type: 3}
 --- !u!4 &1270606096 stripped
 Transform:
@@ -23230,6 +24077,10 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.1, y: 5, z: 1.3}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &1272604077
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23730,11 +24581,190 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e00a0f902ca49b647957e4259bd0f181, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &1294894003
+=======
+<<<<<<< HEAD
+--- !u!1001 &1296812831
+=======
+--- !u!1001 &1294894003
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 433157180}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 3105220269565858089, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ff99ee2dbaf908d48a18114ae28f647e, type: 2}
+    - target: {fileID: 3105220269568053225, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_Name
+      value: Chair whole model (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.235
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 21.214
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.39284128
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5879418
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5767952
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4090324
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -91.592995
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.00101
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 200.909
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6c5405bde22a5143b06d1fe8bbb5fa9, type: 3}
+--- !u!4 &1294894004 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3105220269568283593, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1294894003}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1294894005 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3105220269568053225, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1294894003}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1294894006
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294894005}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.46439624, y: 0.43229616, z: 0.062260196}
+  m_Center: {x: -0.0000056890217, y: 0.0062096645, z: 0.02089967}
+--- !u!1001 &1297595883
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2133139129}
+    m_Modifications:
+    - target: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_Name
+      value: Wall130_Vers5 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.548
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.020004272
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.487
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99996686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.008144048
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -179.067
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+--- !u!4 &1297595884 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50,
+    type: 3}
+  m_PrefabInstance: {fileID: 1297595883}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1297595885 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50,
+    type: 3}
+  m_PrefabInstance: {fileID: 1297595883}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+=======
     m_TransformParent: {fileID: 433157180}
     m_Modifications:
     - target: {fileID: 3105220269565858089, guid: a6c5405bde22a5143b06d1fe8bbb5fa9,
@@ -23898,6 +24928,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1297595883}
   m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!65 &1297595886
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23911,6 +24942,10 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.1, y: 5, z: 1.3}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &1297695851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35144,12 +36179,22 @@ RectTransform:
   m_Children:
   - {fileID: 102130000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 188109052}
 =======
   - {fileID: 859367471}
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
   m_Father: {fileID: 0}
   m_RootOrder: 5
+=======
+  - {fileID: 188109052}
+  m_Father: {fileID: 0}
+<<<<<<< HEAD
+  m_RootOrder: 17
+=======
+  m_RootOrder: 5
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -35170,6 +36215,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 102129999}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &1783596602
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35304,15 +36352,21 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &1790479481
 BoxCollider:
+<<<<<<< HEAD
 =======
 --- !u!114 &1779181545
 MonoBehaviour:
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_GameObject: {fileID: 1790479480}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -35320,6 +36374,7 @@ MonoBehaviour:
   serializedVersion: 2
   m_Size: {x: 0.1, y: 5, z: 1.3}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1779181539}
   m_Enabled: 1
@@ -35329,6 +36384,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   KeypadText: {fileID: 299709811}
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1 &1790547737
 GameObject:
   m_ObjectHideFlags: 0
@@ -35696,6 +36753,9 @@ Transform:
   m_PrefabInstance: {fileID: 840478873}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &1831130459
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35784,6 +36844,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &1831130462
 BoxCollider:
+<<<<<<< HEAD
 =======
 --- !u!1 &1832923607
 GameObject:
@@ -35806,10 +36867,13 @@ GameObject:
   m_IsActive: 1
 --- !u!224 &1832923608
 RectTransform:
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1832923607}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -35832,6 +36896,8 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_GameObject: {fileID: 1831130461}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -35839,6 +36905,7 @@ MonoBehaviour:
   serializedVersion: 2
   m_Size: {x: 0.46439627, y: 0.4322962, z: 0.062260166}
   m_Center: {x: 0.000003841973, y: 0.006214434, z: 0.020899676}
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1832923607}
   m_Enabled: 1
@@ -35921,6 +36988,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 1832923607}
   m_CullTransparentMesh: 0
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!1001 &1835111175
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37150,7 +38219,15 @@ Transform:
   - {fileID: 807821305}
   - {fileID: 1696316845}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 8
+=======
+<<<<<<< HEAD
+  m_RootOrder: 20
+=======
+  m_RootOrder: 8
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1894357802 stripped
 Transform:
@@ -39191,11 +40268,154 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b27216413fc371949b9c11c26384ea50, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &1980414820
+=======
+<<<<<<< HEAD
+--- !u!1001 &1979195775
+=======
+--- !u!1001 &1980414820
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 433157180}
+=======
+<<<<<<< HEAD
+    m_TransformParent: {fileID: 601312284}
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
+    m_Modifications:
+    - target: {fileID: 100144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_Name
+      value: LowPoly_Keyboard (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.151
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.597
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.816
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.010543257
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70702827
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.70702815
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.010543317
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -181.70898
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
+--- !u!4 &1980414821 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400144, guid: 16239cf78d884954ca135c28cf1699fe,
+    type: 3}
+  m_PrefabInstance: {fileID: 1980414820}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1982870202
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 433157180}
+    m_Modifications:
+    - target: {fileID: 3393872814195345416, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_Name
+      value: Table_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.393
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.566
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22.738
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.004750548
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7070909
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.70709074
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0047504297
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393872814195840040, guid: 4f90ffc2424dceb409d5874f3fe789df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -179.23001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+<<<<<<< HEAD
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: ba40ca2aaa9e78d47bad2584b40e14b9, type: 3}
+=======
     m_TransformParent: {fileID: 433157180}
     m_Modifications:
     - target: {fileID: 100144, guid: 16239cf78d884954ca135c28cf1699fe, type: 3}
@@ -39322,6 +40542,7 @@ PrefabInstance:
       value: -179.23001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
   m_SourcePrefab: {fileID: 100100000, guid: 4f90ffc2424dceb409d5874f3fe789df, type: 3}
 --- !u!4 &1982870203 stripped
 Transform:
@@ -39348,6 +40569,10 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.76000017, y: 1.7500005, z: 0.015000004}
   m_Center: {x: -0.0000038146968, y: 0.000007629412, z: 0.0075000003}
+<<<<<<< HEAD
+=======
+>>>>>>> ce883d337800c439265ace818fe97c3c02a20d45
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!4 &1982926210 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50,
@@ -40959,8 +42184,11 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2071561675}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> 18b20535971c48493fa6f25f33617ed7e632e25d
+=======
+>>>>>>> parent of 70df1ee... Revert "Revert "Revert "deko"""
 --- !u!4 &2074102351 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4516500876208602, guid: b27216413fc371949b9c11c26384ea50,
